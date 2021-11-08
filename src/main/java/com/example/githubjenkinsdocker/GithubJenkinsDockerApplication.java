@@ -22,6 +22,6 @@ public class GithubJenkinsDockerApplication {
 	
 	@GetMapping
 	public String testMethod() {
-		return "Integration test of Github-Jenkins-Docker...!"; 
+		return "Integration test of Github-Jenkins-Docker..!"; 
 	}
 }
